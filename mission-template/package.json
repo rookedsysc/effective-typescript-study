@@ -1,6 +1,7 @@
 {
   "name": "effective-typescript-study",
   "version": "1.0.0",
+  "type": "module",
   "description": "TypeScript study project",
   "main": "dist/index.js",
   "scripts": {
